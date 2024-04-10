@@ -1,11 +1,13 @@
 # Comparing Tools for Analysing and Visualising London Citizens Access Green Spaces via Bus
 This is the code part of my BSc final year project at King's College London. Please contact me if you're interested in the whole report.
+- Research Problem: The ease of London citizens access green spaces via bus
+- Tools: NetworkX, Mathematica
 - Supervisor: Professor Nicolas S. Holliman
 - Author: [Yichun Zhang](https://github.com/missyQWQ)
 
 ## Abstract
 
-In the era of big data, data is growing in size and complexity. In order to meet the challenges of the era of big data, data visualization technology has become a powerful tool. Data visualization refers to the presentation of data in the form of charts or images so that people can visually see and understand trends, patterns, and anomalies in the data. Among them, the visualization of network data is important. Taking ”the ease of London citizens to access green spaces via bus” as the research problem, this project models and solves it from the perspective of graph theory. The algorithm is implemented in two common graph processing and visualization tools. And the performance of the two tools is also evaluated.
+In the era of big data, data is growing in size and complexity. In order to meet the challenges of the era of big data, data visualization technology has become a powerful tool. Data visualization refers to the presentation of data in the form of charts or images so that people can visually see and understand trends, patterns, and anomalies in the data. Among them, the visualization of network data is important. Taking ”the ease of London citizens to access green spaces via bus” as the research problem, this project models and solves it from the perspective of graph theory. The algorithm is implemented in two common graph processing and visualization tools (NetworkX and Mathematica), and the performance of the two tools is also evaluated.
 
 ## Directory Structure
 
